@@ -15,7 +15,7 @@ Opik: for providing a framework to systemicatically and quantatively test and ev
 ### Upload our labeled dataset to Opik 
 
 I created json file of 21 punjabi song lyrics and their english translations to use as my "golden" dataset. I first upload this to Opik and we'll use
-this dataset to benchmark our LLM, the prompt template, etc
+this dataset for benchmarking.
 
 ```sh
 python upload_dataset_to_opik.py
