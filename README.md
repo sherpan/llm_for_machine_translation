@@ -4,11 +4,11 @@ A sentimantal side project where I benchmark LLMs on their ability to understand
 
 ## Dependencies
 
-ollama: for locally hosting open-source models like LLama3 and DeepseekLLM on my Macbook Pro
+[ollama](https://github.com/ollama/ollama) : for locally hosting open-source models like LLama3 and DeepseekLLM on my Macbook Pro
 
-litellm: for making it easy to switch out the underlying model used without requiring major code changes
+[litellm](https://github.com/BerriAI/litellm): for making it easy to switch out the underlying model used without requiring major code changes
 
-Opik: for providing a framework to systemicatically and quantatively test and evaluate your LLM Apps 
+[Opik](https://github.com/comet-ml/opik): for providing a framework to systemicatically and quantatively test and evaluate your LLM Apps 
 
 ## Getting Started 
 
