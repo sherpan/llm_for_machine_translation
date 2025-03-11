@@ -2,6 +2,8 @@
 
 A sentimantal side project where I benchmark LLMs on their ability to understand and translate Punjabi Song Lyrics to English. 
 
+![image](bm_sc.png)
+
 ## Dependencies
 
 [ollama](https://github.com/ollama/ollama) : for locally hosting open-source models like LLama3 and DeepseekLLM on my Macbook Pro
